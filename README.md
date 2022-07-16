@@ -1,6 +1,6 @@
 # World_Weather_Analysis
 
-##Purpose
+## Purpose
 
 The purpose of this analysis was to improve a new app called PlanMyTrip. I was tasked with adding features that Beta testers recommended after the initial launch. Specifically, they asked for the weather description to be added. Input statements were also added so that users can filter data based on their desired maximum and minimum temperature preferences. This added information will better help users identify potential travel destinations and hotels. 
 
